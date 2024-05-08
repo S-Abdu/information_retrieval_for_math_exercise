@@ -1,6 +1,6 @@
 # Information Retrieval for Maths Exercises
 
-The project aims to explore information retrieval systems for math data. The developed model can be used either as a search engine (looking for "exercises with circles and volumes" for example) or a recommender system (recommending other similar exercises similar). Models are trained and tested using the publicly available MATH dataset (mathematical expressions being represented using Latex syntax).
+The project aims to explore information retrieval systems for math data. The developed model can be used either as a search engine (looking for "exercises with circles and volumes" for example) or a recommender system (recommending other similar exercises). Models are trained and tested using the publicly available MATH dataset (mathematical expressions being represented using Latex syntax).
 
 ## Notebooks and code
 Below is a short description of each notebook:
